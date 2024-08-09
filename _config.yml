@@ -18,17 +18,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "mellon's blog"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "Welcome to mellon's blog"
 name                     : "mellonmusk"
-description              : "An amazing website for ml & ai."
+description              : "An amazing website for studying ml & ai."
 url                      : "https://mellonmusk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/512px-Starr-100611-6924-Cucumis_melo-Korean_melon_fruit-Olinda-Maui_(24744399670).jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "mellonmusk"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person with sparkling spirit."
+  bio              : "person with sparkling spirit."
   location         : "Seoul, South Korea"
   email            :
   links:
@@ -323,3 +323,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
