@@ -27,7 +27,7 @@ I’ve realized that problem-solving is an area where I still have a lot of room
 ##### TL;DR: LeetCode may not be everything in software engineering, but right now,  LeetCode is my new religion.
 
 
-![LeetCode meme](/mellonmusk.github.io//assets/images/leetcode_meme.jpeg)
+![LeetCode meme](/assets/images/leetcode_meme.jpeg)
 --- 
 
 #### 3.
