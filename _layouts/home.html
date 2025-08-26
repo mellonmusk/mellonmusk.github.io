@@ -4,6 +4,13 @@ layout: archive
 
 {{ content }}
 
+<section class="page__intro">
+  <p class="page__lead">{{ page.welcome_title | default: "Hello everyone!" }}</p>
+  <p>{{ page.welcome_body | default: "Thank you for visiting my website." }}</p>
+  <p>{{ page.welcome_note | default: "You can explore what I've worked on, what I'm interested in lately, and find my CV via the navigation above." }}</p>
+  
+</section>
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}

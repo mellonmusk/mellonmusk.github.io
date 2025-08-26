@@ -27,10 +27,12 @@ I’ve realized that problem-solving is an area where I still have a lot of room
 ##### TL;DR: LeetCode may not be everything in software engineering, but right now,  LeetCode is my new religion.
 
 
+![LeetCode meme](/mellonmusk.github.io//assets/images/leetcode_meme.jpeg)
 --- 
 
 #### 3.
-I'll start grinding AWS SAA weekly from September, and the plan is to crush the exam early next year.(hopefully...) 
+I'll start grinding AWS SAA weekly from September, and the plan is to crush the exam early next year.(hopefully...)   
+
 Why? It's because cloud computing has become such an important part of modern software development, and AWS is at the center of it. 
 
 I want to deepen my understanding of designing scalable, reliable, and cost-efficient systems(skills that I believe are essential for any software engineer today).
