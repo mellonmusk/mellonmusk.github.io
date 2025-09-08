@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Hojeong Kim"
   avatar           : "/assets/images/cat.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a student majoring in Computer Science & Engineering"
+  bio              : "I am a student majoring in Computer Science & Engineering. I believe in the principle that 'a chain is only as strong as its weakest link'."
   location         : "Seoul, South Korea"
   email            :
   links:
